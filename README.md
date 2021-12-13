@@ -3,11 +3,6 @@ My name is Magí Campo, passionate about learning and being able to make my own 
 
 If you want to collaborate feel free to send me a message here or on any of my social networks!
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/magi-campo-troyano-55527490/)
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:magiupc@gmail.com)](mailto:magiupc@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 <details>
   <summary><b>Where to find me</b></summary>
 
